@@ -1,0 +1,104 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@bagasbest 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+1
+00bagasbest/14117026-PABWC
+ Code Issues 0 Pull requests 0 Projects 0 Wiki Security Insights Settings
+14117026-PABWC/form_itera.html
+@bagasbest bagasbest Create form_itera.html
+e5f26a7 8 minutes ago
+71 lines (62 sloc)  1.21 KB
+  
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	
+</head>
+<body>
+	<h1>Selamat datang di Website Kami!</h1>
+	<h2>Web ini adalah tutorial Pemrograman</h2>
+	<H3>Praktikum Pemrograman Web</H3>
+	<p> 
+		<a href="http://itera.ac.id"> Teknik Informatika ITERA
+ 		</a> </span> link for your success way </p>
+ 	</p>
+
+ 	<img src="palu.jpg" height="400px" width="300px">
+
+ 	<br>
+ 	</br>
+
+ 	<select name="My lab">
+ 		<option value="CC">Lab. Praktikum Computer Vision </option>
+ 		<option value="SI">Lab. Sistem Operasi </option>
+ 		<option value="CAI">Lab. Artificial Intelligence </option>
+ 	</select>
+
+ 	<input type="file" name="upload" value="" width="200" />
+ 	
+ 	<br>
+ </br>
+ 	Table
+ 	<table border="1" width="10">
+ 		<thead>
+ 			<tr>
+ 				<th> NIM </th>
+ 				<TH> Mahasiswa</TH>
+ 			</tr>
+ 		</thead>
+ 		<tbody>
+ 			<tr>
+ 				<td>123</td>
+ 				<td>Ani Rahmawati</td>
+ 			</tr>
+ 			<tr>
+ 				<td>124</td>
+ 				<td>Budi Susilo</td>
+ 			</tr>
+ 		</tbody>
+ 	</table>
+
+ 	<br>
+ </br>
+
+ 	Bidang Minat:
+ 	<ol>
+ 		<li> Sistem Informasi
+ 			<ul>
+ 				<li>Data Warek</li>
+ 				<li>Enterprise Architecture</li>
+ 			</ul>
+ 		</li>
+ 		<li> Multimedia
+ 			<ul>
+ 				<li>Komputer Grafik</li>
+ 				<li>Machinema</li>
+ 			</ul>
+ 		</li>
+ 	</ol>
+
+</body>
+</html>
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
