@@ -1,0 +1,18 @@
+3. Jelaskan fungsi tag HTML pada Table: thead, tbody, tr, th serta td!
+
+Jawab :
+
+   Sebagai sebuah bahasa markup, HTML membutuhkan cara untuk memberitahu web browser untuk apa fungsi sebuah text. 
+Apakah text itu ditulis sebagai sebuah paragraf, list, atau sebagai link. Dalam HTML, tanda ini dikenal dengan istilah tag.
+Hampir semua tag di dalam HTML ditulis secara berpasangan, yakni tag pembuka dan tag penutup, 
+dimana objek yang dikenai perintah tag berada di antara tag pembuka dan tag penutup. Objek disini dapat berupa text, gambar, maupun video. 
+Penulisan tag berada di antara dua kurung siku: “<” dan “>”.
+
+Berikut adalah format dasar penulisan tag HTML:
+  <tag_pembuka>objek yang dikenai perintah tag</tag_penutup>
+  
+<thead>	berfungsi Mengelompokan isi header dalam sebuah tabel
+<tbody>	berfungsi Mengelompokanisi tubuh dalam sebuah tabel
+<th>	Tag untuk membuat sebuah sel header tabel
+<tr>	Tag untuk membuat baris dalam sebuah tabel
+<td>	Tag untuk membuat sel dalam sebuah tabel
